@@ -1,1 +1,1 @@
-{"banned": [{"Id": 1, "Username": "ROBLOX"}, {"Id": 2, "Username": "John Doe"}], "message": "success"}
+{"banned": [{"Id": 1, "Username": "ROBLOX", "Reason": "testing"}, {"Id": 2, "Username": "John Doe", "Reason": "testing"}, {"Id": 737956, "Username": "Exxen", "Reason": "testing"}], "message": "success"}
